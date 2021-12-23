@@ -4,10 +4,11 @@ ___________________________________________________________________
 
 - what's readini? -
 
-readini is a C99 library for understanding the ini data exchange 
+readini is a C99 single header file library for reading the ini data exchange 
 format. This format is used as a configuration file, similar to JSON. 
 
-the API is really easy to follow. main.c uses most of the commands you may need.
+the API is trivial to follow, main.c uses most of the commands you may need.
+
 
 - resources used - 
 
