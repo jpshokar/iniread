@@ -52,7 +52,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <http://unlicense.org/>
 -- MIT --
 
-Copyright (c) 2021 Jashanpreet, Shokar
+Copyright (c) 2022 Jashanpreet, Shokar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
