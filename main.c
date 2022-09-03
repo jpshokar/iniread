@@ -19,7 +19,7 @@ char* getvalue(iniread_t ini, char* section, char* id)
         {
                 printf("true");
         }
-        
+        /* return value like so */
         return key.value;
         
 }
