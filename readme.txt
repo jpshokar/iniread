@@ -1,4 +1,6 @@
 
+DISCLAIMER: This project will undergo a huge api-breaking change **soon!** and will be apart of the js_libs
+
 readini
 ___________________________________________________________________
 
